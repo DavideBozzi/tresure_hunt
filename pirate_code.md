@@ -39,7 +39,6 @@ Note to the First mate: make sure you revise article I of the pirate code above,
 get your fair share of the prize!
 
 Captain      : davide bozzi
-Quartermaster: NAME_HERE
+Quartermaster: Etthel_Windels
 First mate   : Michela Dall'Angelo
-
 
